@@ -1,4 +1,4 @@
-# rebeccamcaree01-cell.github.io
-theme: jekyll-theme-minimal
+# Moon&Fox.github.io
+theme: jekyll-theme-cayman
 title: Moon&Fox Homepage
-description: Bookmark this to keep an eye on my project updates!
+description: Just a portfolio, you can purchase if you so please!
